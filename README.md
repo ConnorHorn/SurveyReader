@@ -1,0 +1,1 @@
+Svelte based app for parsing and reading survey results using GPT.
